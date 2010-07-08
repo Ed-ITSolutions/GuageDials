@@ -1,3 +1,8 @@
 h1. GuageDials
 
-TODO...
+GuageDials provide a variety of dials for php, generated using PHP-GD.
+
+h2. Usage
+
+$dial = new guagedial("dial",150,150,"png","C");
+
